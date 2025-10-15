@@ -1,5 +1,5 @@
 # Stage 1: Build
-FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
 
 # Copy csproj and restore dependencies (cached layer)
@@ -11,7 +11,7 @@ COPY . ./
 RUN dotnet publish -c Release -o /app/publish /p:UseAppHost=false
 
 # Stage 2: Runtime
-FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:0.0 AS runtime
 WORKDIR /app
 
 # Copy published output
