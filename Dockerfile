@@ -21,4 +21,4 @@ COPY --from=build /app/publish .
 EXPOSE 80
 
 # Entrypoint
-ENTRYPOINT ["dotnet", "LeetCode.Api.dll"]
+ENTRYPOINT ["dotnet", "LeetCode.dll"]
