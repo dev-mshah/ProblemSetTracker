@@ -14,29 +14,29 @@ namespace LeetCode.Data
                     {
                         Title = "Two Sum",
                         Difficulty = "Easy",
-                        Status = "Solved",
-                        Notes = "Used a hashmap to store complements."
+                        Link = "https://leetcode.com/problems/two-sum/",
+                        Category = "Array"
                     },
                     new LeetCodeQuestion
                     {
                         Title = "Valid Parentheses",
                         Difficulty = "Easy",
-                        Status = "Solved",
-                        Notes = "Stack-based approach."
+                        Link = "https://leetcode.com/problems/valid-parentheses/",
+                        Category = "Stack"
                     },
                     new LeetCodeQuestion
                     {
                         Title = "Merge Intervals",
                         Difficulty = "Medium",
-                        Status = "Unsolved",
-                        Notes = "Need to review sorting by start time."
+                        Link = "https://leetcode.com/problems/merge-intervals/",
+                        Category = "Interval"
                     },
                     new LeetCodeQuestion
                     {
                         Title = "Median of Two Sorted Arrays",
                         Difficulty = "Hard",
-                        Status = "Unsolved",
-                        Notes = "Binary search on partitions."
+                        Link = "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+                        Category = "Binary Search"
                     }
                 };
 

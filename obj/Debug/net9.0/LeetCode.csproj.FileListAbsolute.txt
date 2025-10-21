@@ -1,5 +1,11 @@
+/Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/publish/web.config
 /Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/appsettings.Development.json
 /Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/appsettings.json
+/Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/publish/appsettings.Development.json
+/Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/publish/appsettings.json
+/Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/publish/LeetCode.deps.json
+/Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/publish/LeetCode.runtimeconfig.json
+/Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/publish/LeetCode.staticwebassets.endpoints.json
 /Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/LeetCode.staticwebassets.endpoints.json
 /Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/LeetCode
 /Users/user/Developer/demo/Portfolio/LeetCode/bin/Debug/net9.0/LeetCode.deps.json
@@ -137,6 +143,7 @@
 /Users/user/Developer/demo/Portfolio/LeetCode/obj/Debug/net9.0/LeetCode.csproj.CoreCompileInputs.cache
 /Users/user/Developer/demo/Portfolio/LeetCode/obj/Debug/net9.0/LeetCode.MvcApplicationPartsAssemblyInfo.cs
 /Users/user/Developer/demo/Portfolio/LeetCode/obj/Debug/net9.0/LeetCode.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/Developer/demo/Portfolio/LeetCode/obj/Debug/net9.0/LeetCode.sourcelink.json
 /Users/user/Developer/demo/Portfolio/LeetCode/obj/Debug/net9.0/scopedcss/bundle/LeetCode.styles.css
 /Users/user/Developer/demo/Portfolio/LeetCode/obj/Debug/net9.0/staticwebassets.build.json
 /Users/user/Developer/demo/Portfolio/LeetCode/obj/Debug/net9.0/staticwebassets.development.json
